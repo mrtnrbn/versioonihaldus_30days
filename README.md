@@ -1,1 +1,3 @@
-# versioonihaldus_try
+# versioonihaldus_30days
+
+iga päev üks commit
